@@ -1,0 +1,233 @@
+.para1 {
+    width: 42%;
+    color: black;
+    font-size: 2.4rem;
+    font-family: fantasy;
+    margin-top: 9rem;
+    position: absolute;
+    margin-left: 2rem;
+}
+
+.para2 {
+    width: 32%;
+    color: black;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-top: 17rem;
+    position: absolute;
+    margin-left: 2rem;
+}
+
+.getmore button {
+    margin-top: 20rem;
+    margin-left: 2rem;
+    width: 115px;
+    border: 2px solid cornflowerblue;
+    background: cornflowerblue;
+    border-radius: 25px;
+    line-height: 35px;
+    color: white;
+    font-family: "Cabin", sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+.features h4 {
+    color: cornflowerblue;
+    font-size: 23px;
+    font-family: Quicksand;
+    font-weight: 800;
+    color: rgba(9, 58, 218, 0.795);
+}
+
+.info1 img {
+    width: 18rem;
+    height: 15rem;
+    float: right;
+    border-radius: 5px;
+    margin: 3rem 3rem 0 0;
+}
+
+.quate {
+    width: 95%;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 35px;
+    box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 20%);
+    position: relative;
+    height: 150px;
+    background-color: white;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.pic {
+    display: flex;
+    width: 70%;
+    height: 20rem;
+    background-color: white;
+    margin: 10px;
+    position: relative;
+    flex-direction: column;
+}
+
+.team-section {
+    width: 100%;
+    height: 750px;
+    margin-top: -6rem;
+    background: url(/asset/form-bg.jpg) no-repeat center center/cover;
+    content: "";
+}
+
+.service2 .pa {
+    text-align: center;
+    margin: auto;
+    font-size: 12px;
+    width: 600px;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+
+.webd {
+    display: flex;
+    margin-top: 5rem;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px 0px rgb(128 128 128 / 50%);
+    width: 250px;
+    height: 250px;
+}
+
+.webd p {
+    color: black;
+    padding-top: 15px;
+    font-size: small;
+    margin: auto;
+    width: 215px;
+    font-weight: 400;
+}
+
+.webd h3 {
+    text-align: center;
+    color: cornflowerblue;
+    font-family: Quicksand;
+    font-weight: 800;
+    margin-bottom: 50px;
+    font-size: medium;
+}
+
+#ecomm h3 p{
+    width: 225px;
+}
+
+.service-info img {
+    width: 25rem;
+    margin: 5rem 0rem 3rem 5rem;
+    float: left;
+}
+
+#service-info-1 {
+    margin-right: 5rem;
+    float: right;
+}
+
+.about_us img {
+    float: left;
+    width: 24rem;
+    margin-top: 6rem;
+    margin-left: 0px;
+    border-radius: 4px;
+}
+
+.content {
+    float: right;
+    width: 22rem;
+    margin: 4rem 0rem;
+}
+
+.content h2 {
+    font-family: system-ui;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-weight: 800;
+    font-size: large;
+}
+
+.content p {
+    font-size: 14px;
+    text-align: justify;
+    font-family: Quicksand;
+    margin-bottom: 30px;
+}
+
+.about .content ul li {
+    padding: 0 0 8px 26px;
+    position: relative;
+    font-size: 12px;
+    font-family: Quicksand;
+    text-align: justify;
+}
+
+.contact1 img {
+    float: left;
+    width: 53%;
+    margin-top: 5rem;
+}
+
+.contact_us {
+    background: url(/asset/contact-bg.jpg) no-repeat;
+    width: 47%;
+    content: "";
+    float: right;
+    margin-top: -30px;
+    height: 22.8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 4rem;    
+    margin-bottom: 80px;
+}
+
+.contact_us form {
+    display: flex;
+    width: 25rem;
+    flex-wrap: wrap;
+}
+
+.contact_us h4 {
+    font-size: 15px;
+    color: white;
+    font-family: ubuntu;
+}
+
+.contact_us input {
+    margin-bottom: 1.5rem;
+    height: 2rem;
+    width: 10rem;
+    margin-right: 10px;
+    color: white;
+    background-color: #FFFFFF00;
+    border: 1px solid #484848;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-family: Quicksand;
+    font-weight: 500;
+}
+
+.contact_us #message {
+    width: 20.5rem;
+    height: 4rem;
+}
+
+.contact_us button {
+    width: 7rem;
+    font-size: 15px;
+    border-radius: 3rem;
+    font-weight: 700;
+    height: 3rem;
+    background-color: cornflowerblue;
+    color: white;
+    margin-left: 0.5rem;
+}

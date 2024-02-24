@@ -1,0 +1,531 @@
+/* <!--------------- NAVBAR START -------------> */
+
+.nav {
+    background: white;
+    height: 135px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.logo img {
+    width: 15.5rem;
+}
+
+nav ul {
+    float: right;
+    margin-right: 5rem;
+    margin-top: 30px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0px 25px;
+    line-height: 90px;
+    font-family: "Cabin", sans-serif;
+}
+
+nav ul li a {
+    color: rgba(0, 0, 0, 0.847);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-right: 3rem;
+}
+
+.scrollto {
+    color: white;
+    font-size: x-large;
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    text-decoration: none;
+    padding: 25px 25px 25px 25px;
+    text-transform: capitalize;
+    border-radius: 59px;
+    margin-right: 15px;
+}
+
+#login {
+    color: cornflowerblue;
+    font-size: x-large;
+    background-color: white;
+    border: 2px solid cornflowerblue;
+    text-decoration: none;
+    padding: 25px 30px 25px 30px;
+    text-transform: capitalize;
+    border-radius: 59px;
+    margin-right: 15px;
+}
+/* <!--------------- NAVBAR END -------------> */
+
+
+/* <!--------------- HERO SECTION START -------------> */
+
+.para1 {
+    width: 39%;
+    color: black;
+    font-size: 4.5rem;
+    font-family: fantasy;
+    margin-top: 25rem;
+    position: absolute;
+    margin-left: 2rem;
+}
+
+.para2 {
+    width: 35%;
+    color: black;
+    font-size: 1.8rem;
+    font-family: sans-serif;
+    margin-top: 40rem;
+    position: absolute;
+    margin-left: 2rem;
+}
+
+.getmore button {
+    margin-top: 50rem;
+    margin-left: 2rem;
+    width: 250px;
+    border: 2px solid cornflowerblue;
+    background: cornflowerblue;
+    border-radius: 30px;
+    line-height: 65px;
+    color: white;
+    font-family: 'Quicksand';
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.container2 img {
+    float: right;
+    width: 65%;
+    margin: 0px;
+}
+
+/* <!--------------- HERO SECTION END -------------> */
+
+/* <!--------------- CHOOSEUS SECTION START -------------> */
+
+.chooseus h5 {
+    font-size: 35px;
+    display: inline-block;
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: "Quicksand", sans-serif;
+    color: cornflowerblue;
+}
+
+.chooseus h2 {
+    margin-bottom: 15px;
+    font-weight: bolder;
+    font-style: normal;
+    font-family: "Quicksand", sans-serif;
+    color: black;
+    font-size: 3rem;
+}
+
+
+.features {
+    border-radius: 5px;
+    box-shadow: 0px 0px 54px 0px rgb(9 46 195 / 7%);
+    padding: 30px;
+    margin: 10px;
+    width: 50%;
+}
+
+.features img {
+    width: 10rem;
+    float: left;
+    padding: 5px;
+    margin: 10px;
+}
+
+.features h4 {
+    color: cornflowerblue;
+    font-size: xxx-large;
+    font-family: Quicksand;
+    font-weight: 800;
+    color: rgba(9, 58, 218, 0.795);
+}
+
+.features p {
+    font-size: 25px;
+    color: #848484;
+    font-family: "Poppins", sans-serif;
+}
+
+.features1 {
+    border-radius: 5px;
+    box-shadow: 0px 0px 54px 0px rgb(9 46 195 / 7%);
+    padding: 30px;
+    margin: 10px;
+    width: 50%;
+}
+
+.features1 img {
+    width: 10rem;
+    float: left;
+    padding: 5px;
+    margin: 10px;
+}
+
+.features1 h4 {
+    color: cornflowerblue;
+    font-size: xxx-large;
+    font-family: Quicksand;
+    font-weight: 800;
+    color: rgba(9, 58, 218, 0.795);
+}
+
+.features1 p {
+    font-size: 25px;
+    color: #848484;
+    font-family: "Poppins", sans-serif;
+}
+
+.work-section2 {
+    height: 700px;
+    width: 75%;
+    margin: auto;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    margin-top: 10rem;
+}
+
+.info1 img {
+    width: 55rem;
+    float: right;
+    border-radius: 5px;
+    margin: 10rem 3rem 0 0;
+}
+
+.info2 {
+    display: flex;
+    flex-direction: column;
+    height: 40rem;
+}
+
+.info2 h2 {
+    margin: 10rem 0rem 2rem 4rem;
+    font-weight: 800;
+    width: 55rem;
+    font-family: Quicksand;
+    font-size: 3rem;
+}
+
+.info2 p {
+    width: 50rem;
+    margin: 0rem 0rem 2rem 4rem;
+    font-family: Quicksand;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.info2 button {
+    width: 200px;
+    border: 2px solid cornflowerblue;
+    background: cornflowerblue;
+    border-radius: 50px;
+    line-height: 70px;
+    color: white;
+    font-family: "Cabin", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 4rem;
+}
+
+/* <!--------------- CHOOSEUS SECTION END -------------> */
+
+/* <!--------------- TEAM SECTION START -------------> */
+
+
+.quate {
+    width: 80%;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 35px;
+    box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 20%);
+    position: relative;
+    height: 250px;
+    background-color: white;
+    margin-top: 115px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.quate h2 {
+    margin: 4rem 0 1rem 3rem;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 3rem;
+}
+
+.quate h4 {
+    margin: 0rem 0 2rem 3.5rem;
+    font-family: Quicksand;
+    font-size: 20px;
+}
+
+.quate2 form input {
+    margin: 4rem 4rem 0rem 8rem;
+    border-radius: 50px;
+    line-height: 65px;
+    padding: 20px;
+    border: 4px solid whitesmoke;
+    width: 20rem;
+    font-family: 'Quicksand';
+    font-size: 25px;
+}
+
+.quate2 button {
+    width: 200px;
+    border: 2px solid cornflowerblue;
+    background: cornflowerblue;
+    border-radius: 55px;
+    line-height: 65px;
+    color: white;
+    font-family: "Cabin", sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 15px;
+    margin-left: 2rem;
+}
+
+.team p {
+    margin-top: 10rem;
+    font-family: Quicksand;
+    font-weight: 800;
+    font-size: 2rem;
+    color: white;
+}
+
+.team h3 {
+    font-size: 2.75rem;
+    font-family: Ubuntu;
+    color: white;
+}
+
+.team h6 {
+    color: white;
+    margin-top: 10px;
+    font-family: ubuntu;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.team-section {
+    width: 100%;
+    height: 80rem;
+    margin-top: -6rem;
+    background: url(/asset/form-bg.jpg) no-repeat center center/cover;
+    content: "";
+}
+
+.pic {
+    display: flex;
+    width: 70%;
+    height: 45rem;
+    background-color: white;
+    margin: 10px;
+    position: relative;
+    flex-direction: column;
+}
+
+.service2 h5 {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: Quicksand;
+    font-weight: 800;
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+.service2 h2 {
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 15px;
+    font-weight: 800;
+    font-family: "ubuntu";
+    color: rgb(28, 1, 54);
+}
+
+.service2 .pa {
+    text-align: center;
+    margin: auto;
+    font-size: 22px;
+    width: 970px;
+    font-family: 'Quicksand';
+    padding-top: 10px;
+}
+
+.webd {
+    display: flex;
+    margin-top: 5rem;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px 0px rgb(128 128 128 / 50%);
+    width: 30rem;
+    height: 30rem;
+    justify-content: space-evenly;
+}
+
+.webd img {
+    width: 12rem;
+    margin: auto;
+    margin-bottom: 5rem;
+}
+
+.webd h3 {
+    text-align: center;
+    color: cornflowerblue;
+    font-family: Quicksand;
+    font-weight: 800;
+    margin-bottom: 50px;
+    font-size: xx-large;
+}
+
+.webd p {
+    color: black;
+    padding-top: 15px;
+    font-size: 20px;
+    margin: auto;
+    width: 300px;
+    font-weight: 400;
+}
+
+#appd img {
+    width: 10rem;
+}
+
+#ecomm img {
+    width: 10rem;
+}
+
+.service-info {
+    background: url(/asset/service-bg.jpg) no-repeat center center/cover;
+    width: 100%;
+    height: 40rem;
+    margin-top: 25rem;
+}
+
+#service-info-1 {
+    float: right;
+    margin-right: 25rem;
+    margin-top: 1rem;
+}
+
+.service-info img {
+    width: 50rem;
+    margin: 5rem 0rem 3rem 20rem;
+    float: left;
+}
+
+.about {
+    display: flex;
+    width: 75%;
+    margin: auto;
+}
+
+.about_us img {
+    float: left;
+    width: 55rem;
+    margin-top: 10rem;
+    margin-left: 0px;
+    border-radius: 4px;
+}
+
+.content {
+    float: right;
+    width: 50rem;
+    margin: 4rem 7rem;
+}
+
+.content h3 {
+    font-size: 35px;
+    font-weight: 600;
+    font-family: "Quicksand", sans-serif;
+    margin-top: 6rem;
+    margin-bottom: 30px;
+    color: cornflowerblue;
+}
+
+.content h2 {
+    font-family: system-ui;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-weight: 800;
+    font-size: 4rem;
+}
+
+.content p {
+    font-size: 30px;
+    text-align: justify;
+    font-family: Quicksand;
+    margin-bottom: 30px;
+}
+
+.about .content ul li {
+    padding: 0 0 8px 26px;
+    position: relative;
+    font-size: 25px;
+    font-family: Quicksand;
+    text-align: justify;
+}
+
+.contact_us {
+    background: url(/asset/contact-bg.jpg) center no-repeat;
+    width: 50%;
+    content: "";
+    height: 50.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 20rem;
+    margin: auto;
+    margin-top: 90px;
+}
+
+.contactus {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    margin-top: 10.5rem;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.contact_us h4 {
+    font-size: 4rem;
+    color: white;
+    font-family: ubuntu;
+}
+
+.contact_us p {
+    font-size: 45px;
+    color: white;
+    font-weight: 600;
+    font-family: ubuntu;
+    margin-bottom: 30px;
+}
+
+.contact_us input {
+    margin-bottom: 1.5rem;
+    height: 4rem;
+    width: 16rem;
+    margin-right: 10px;
+    color: white;
+    background-color: #FFFFFF00;
+    border: 1px solid #484848;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-family: Quicksand;
+    font-weight: 800;
+}
+
+.contact_us #message {
+    width: 32.5rem;
+    height: 6rem;
+}
+

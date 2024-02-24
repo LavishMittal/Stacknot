@@ -1,0 +1,290 @@
+.container2 img {
+    float: right;
+    width: 55%;
+    display: none;
+}
+
+.para1 {
+    width: 100%;
+    color: black;
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+    position: unset;
+}
+
+.para2 {
+    width: 65%;
+    color: black;
+    font-size: 14px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    margin-left: 7rem;
+    position: unset;
+}
+
+.getmore button {
+    margin-top: 3rem;
+    margin-left: 20rem;
+    width: 115px;
+    border: 2px solid cornflowerblue;
+    background: cornflowerblue;
+    border-radius: 25px;
+    line-height: 35px;
+    color: white;
+    font-family: "Cabin", sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+.work-section {
+    display: flex;
+    width: 75%;
+    height: 450px;
+    margin: auto;
+    flex-direction: column;
+    margin-top: 4rem;
+}
+
+.chooseus h2 {
+    margin-bottom: 15px;
+    font-weight: bolder;
+    font-style: normal;
+    font-family: "Quicksand", sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+.features img {
+    width: 3rem;
+    float: left;
+    padding: 5px;
+    margin: 10px;
+}
+
+.features h4 {
+    font-size: 15px;
+    font-family: Quicksand;
+    font-weight: 800;
+    color: rgba(9, 58, 218, 0.795);
+}
+
+.features p {
+    font-size: 9px;
+    color: #848484;
+    font-family: "Poppins", sans-serif;
+}
+
+.features1 img {
+    width: 3rem;
+    float: left;
+    padding: 5px;
+    margin: 10px;
+}
+
+.features1 h4 {
+    font-size: 15px;
+    font-family: Quicksand;
+    font-weight: 800;
+    color: rgba(9, 58, 218, 0.795);
+}
+
+.features1 p {
+    font-size: 9px;
+    color: #848484;
+    font-family: "Poppins", sans-serif;
+}
+
+.info1 img {
+    display: none;
+}
+
+.info2 h2 {
+    /* margin: 3rem 0rem 1rem 1rem; */
+    font-weight: 900;
+    width: 22rem;
+    font-family: Quicksand;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.info2 p {
+    width: 26rem;
+    margin: 1rem 0rem 1rem 1rem;
+    font-family: Quicksand;
+    font-size: 15px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.info2 button {
+    width: 120px;
+    border: 2px solid cornflowerblue;
+    background: cornflowerblue;
+    border-radius: 25px;
+    line-height: 35px;
+    color: white;
+    font-family: "Cabin", sans-serif;
+    font-size: small;
+    font-weight: bold;
+    margin-top: 45px;
+    margin-left: 5rem;
+}
+
+.quate{
+    display: none;
+}
+
+.team-section {
+    width: 100%;
+    margin-top: 0rem;
+    height: 70rem;
+    background: url(/asset/form-bg.jpg) no-repeat center center/cover;
+    content: "";
+}
+
+.team p {
+    margin-top: 3rem;
+    font-family: Quicksand;
+    font-weight: 800;
+    font-size: medium;
+    color: white;
+}
+
+.team-pics {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.pic {
+    display: flex;
+    width: 45%;
+    height: 26rem;
+    background-color: white;
+    margin: 10px;
+    position: relative;
+    flex-direction: column;
+}
+
+.service2 h2 {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 15px;
+    font-weight: 800;
+    font-family: "ubuntu";
+    color: rgb(28, 1, 54);
+}
+
+.service2 .pa {
+    text-align: center;
+    margin: auto;
+    font-size: 10px;
+    width: 385px;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    height: 60rem;
+}
+
+#ecomm h3 p{
+    width: 225px;
+}
+
+#service-info-1 {
+    margin-right: 0rem;
+    float: right;
+    width: 340px;
+    margin-right: 10px;
+}
+
+.service-info img {
+   display: none;
+}
+
+#service-info-1 {
+    float: none;
+    margin: auto;
+}
+
+.about_us img {
+    float: left;
+    width: 20rem;
+    margin-top: 6rem;
+    margin-left: 0px;
+    border-radius: 4px;
+}
+
+.content {
+    float: right;
+    width: 14rem;
+    margin: 4rem 0rem;
+}
+
+.content h2 {
+    font-family: system-ui;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.content p {
+    font-size: 13px;
+    text-align: justify;
+    font-family: Quicksand;
+    margin-bottom: 30px;
+}
+
+.contact1 img{
+    display: none;
+}
+
+.contact_us {
+    background: url(/asset/contact-bg.jpg) no-repeat;
+    width: 100%;
+    content: "";
+    float: right;
+    margin-top: 50px;
+    height: 22.8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 15rem;
+    margin-bottom: 80px;
+}
+
+#handles h3 {
+    color: cornflowerblue;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: large;
+    padding-left: 5px;
+}
+
+#handles p {
+    color: white;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    padding-left: 5px;
+    font-weight: 100;
+    font-size: 12px;
+}
+
+.contact a {
+    font-size: large;
+    color: cornflowerblue;
+}
